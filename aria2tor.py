@@ -457,7 +457,7 @@ class Aria2TransmissionStyleApp:
         self._set_files(file_rows)
 
         tracker_rows = []
-	try:
+		try:
 		# Try aria2p trackers attribute first
     		trackers = getattr(d, "trackers", None)
 		if trackers:
