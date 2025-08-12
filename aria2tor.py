@@ -468,7 +468,7 @@ class Aria2TransmissionStyleApp:
 		tlist = self.api.client.get_trackers(d.gid)
 			for t in tlist:
 				tracker_rows.append((t.get("announce", ""), t.get("status", "-")))
-	except Exception as e:
+		except Exception as e:
 		tracker_rows.append(("Error fetching trackers", str(e)))	
         self._set_trackers(tracker_rows)
 
