@@ -6,7 +6,7 @@ import threading
 import os
 
 # Start aria2c with RPC enabled and secure secret
-aria2c_path = r"C:\Users\chum.layan\AppData\Local\Programs\Python\aria2-1.37.0-win-64bit-build1\aria2c.exe"
+aria2c_path = r"C:\Users\chum.layan\AppData\Local\Programs\Python\WPy64-312101\python\Lib\site-packages\aria2c\aria2c.exe"
 aria2c_command = [
     aria2c_path,
     "--enable-rpc",
