@@ -1,0 +1,8 @@
+# Netscape HTTP Cookie File
+# https://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file! Do not edit.
+
+khdiamond.net	FALSE	/	FALSE	1786969890	starstruck_0f50d506688ebaa7b22d794525ebf254	4e7632918e5d8066356b5bfe125dd4e6
+khdiamond.net	FALSE	/	TRUE	1779044063	wordpress_logged_in_0f50d506688ebaa7b22d794525ebf254	layanchum%7C1779000864%7CkLzOVc3fKTIGDDshKZF6nFMs4A0Owh0eWLUvaXv6AsQ%7Ccc091d8add7cb49442c904384e8c4a4fb349c5d113fdcec622160a2a47618479
+khdiamond.net	FALSE	/	FALSE	1779000862	user_login_ses_hash	4747c0de649df6da9de31a3466c387aa
+khdiamond.net	FALSE	/	FALSE	1776495262	khdiamond_rfr_lgck	1776495264
